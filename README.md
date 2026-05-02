@@ -1,2 +1,2 @@
 # library-management-system1
-this is my new project using concept in dsa
+The Library Management System is a program developed using core Data Structures and Algorithms (DSA) concepts to efficiently manage books, users, and transactions. It uses data structures like arrays, linked lists, stacks, queues, or hash tables to store and organize data, and algorithms for searching, sorting, issuing, and returning books. The project focuses on optimizing performance and demonstrating practical implementation of DSA in real-world applications.
